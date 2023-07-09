@@ -15,6 +15,8 @@ Raft is a consensus algorithm designed as an alternative to the Paxos family of 
 
 ## Demo:
 
+https://github.com/rameshpav1321/RAFT_algorithm_implementation/assets/90695775/386458aa-b615-469e-86b9-8421f233ccf8
+
 ## Resources to best understand the paper:
 
 1. The paper itself - https://raft.github.io/raft.pdf
